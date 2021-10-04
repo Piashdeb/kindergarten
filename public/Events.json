@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Drama Production",
+      "descripiton": "Theater Night – Children perform original or well known skits and plays.",
+      "img": "https://us.123rf.com/450wm/helenfield/helenfield1802/helenfield180200730/95365773-childrens-performance-in-the-theater-kindergarten-musical-school-kids-playing-stage-entertaiment-cin.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Art show",
+      "descripiton": "Below is Silent Auction idea & Spring Art Show)",
+      "img": "https://previews.123rf.com/images/helenfield/helenfield1712/helenfield171201386/92326556-children-creativity-kindergarten-school-art-boys-and-girls-drawing-and-painting-pictures-children-ar.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Stady Tour",
+      "descripiton": "Without Study tour life is not beautiful",
+      "img": "https://thumbs.dreamstime.com/b/kids-picnic-park-isolated-kids-picnic-park-isolated-illustration-210984842.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mothers day",
+      "descripiton": "A mother is your first friend, your best friend, your forever friend.",
+      "img": "https://thumbs.dreamstime.com/b/kids-drawing-mother-s-day-vector-heart-happy-art-47852814.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Father day",
+      "descripiton": "A Father is your first friend, your best friend, your forever friend.",
+      "img": "https://cdn2.vectorstock.com/i/1000x1000/68/46/fathers-day-kids-drawing-vector-21066846.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Get Together",
+      "descripiton": "When old friends get together, everything else fades to insignificance.\"- War, Famine, Pestilence, and Death",
+      "img": "https://image.freepik.com/free-vector/happy-graduated-children-wearing-medical-masks-academic-gown-cap-multicultural-kids-celebrating-kindergarten-graduation-together-flat-cartoon-illustration_255592-165.jpg"
+    }
+  ]

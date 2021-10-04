@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Computer Club",
+      "price": 1500,
+      "img": "https://thumbs.dreamstime.com/z/little-girl-boy-programming-robot-their-computers-kids-coding-workspace-vector-illustration-138388699.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Debating Club",
+      "price": 1000,
+      "img": "https://c8.alamy.com/comp/2DWWGC5/debating-club-abstract-concept-vector-illustration-2DWWGC5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Music Club",
+      "price": 1200,
+      "img": "https://thumbs.dreamstime.com/z/children-playing-instruments-vector-set-different-32487245.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sports Club",
+      "price": 800,
+      "img": "https://thumbs.dreamstime.com/z/small-kids-playing-sportive-games-enjoying-different-sports-exercises-outdoors-gym-set-cartoon-illustrations-cute-89298147.jpg"
+    }
+]

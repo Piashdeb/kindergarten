@@ -1,0 +1,8 @@
+.card{
+    border-radius: 3px solid #ccffcc;
+}
+.btn{
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
