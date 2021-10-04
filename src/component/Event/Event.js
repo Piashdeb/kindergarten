@@ -14,7 +14,7 @@ const Event = (props) => {
                         <Card.Text>
                             <p>{descripiton}</p>
                         </Card.Text>
-                        <Button className="btn-primary btn ">Add</Button>
+                        <Button className="btn-primary btn ">Explore</Button>
                     </Card.Body>
                 </Card>
             </Col>
