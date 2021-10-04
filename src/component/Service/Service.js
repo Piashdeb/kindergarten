@@ -1,5 +1,6 @@
 import Button from '@restart/ui/esm/Button';
 import { Card, Col } from 'react-bootstrap';
+import './Service.css'
 
 const Service = (props) => {
     console.log(props.service);

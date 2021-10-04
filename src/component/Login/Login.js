@@ -20,10 +20,10 @@ const Login = () => {
                     <Form.Label>Password</Form.Label>
                     <Form.Control type="password" placeholder="Password" />
                 </Form.Group>
-                <Form.Group className="mb-3" controlId="formBasicCheckbox">
+                {/* <Form.Group className="mb-3" controlId="formBasicCheckbox">
                     <Form.Check type="checkbox" label="Check me out" />
-                </Form.Group>
-                <Button variant="primary" type="submit">
+                </Form.Group> */}
+                <Button className=" btn  btn-primary" variant="primary" type="submit">
                     Submit
                 </Button>
             </Form>
@@ -76,11 +76,11 @@ const Login = () => {
                         <Form.Control />
                     </Form.Group>
                 </Row>
-                <Form.Group className="mb-3" id="formGridCheckbox">
+                {/* <Form.Group className="mb-3" id="formGridCheckbox">
                     <Form.Check type="checkbox" label="Check me out" />
-                </Form.Group>
+                </Form.Group> */}
 
-                <Button variant=" btn btn-primary " type="submit">
+                <Button className=" btn btn-primary" variant=" btn btn-primary " type="submit">
                     Submit
                 </Button>
             </Form>
